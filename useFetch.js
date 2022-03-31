@@ -38,5 +38,5 @@ fetch(url)
 
 return state;
 
-}
+};
 
